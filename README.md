@@ -20,3 +20,5 @@ The goal is to detect the **status of dustbins** in public or home environments 
 - OpenCV  
 - Custom-labeled dataset  
 - Git & GitHub
+
+check the documnet for yolo model and video for live detection
